@@ -1,3 +1,2 @@
 include ':nspek'
-include ':androsample'
 include ':kotlinsample'
